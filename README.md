@@ -6,7 +6,7 @@ Computer Engineering Department
 
 Spring 2021
 
-CMPE 260
+CMPE 260 - Principles of Programming Languages
 
 Project 1
 
